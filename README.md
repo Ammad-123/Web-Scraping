@@ -1,3 +1,4 @@
+# Web Scraping Libraries
 This document provides an overview of the key libraries commonly used for web scraping in Python. These libraries offer a variety of functionalities to extract data from websites efficiently.
 
 Table of Contents
